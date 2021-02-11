@@ -261,13 +261,14 @@ margin-top: -1.5em;
     color: #fff;
     padding-top: 1em;
     margin-right: 0.8em;
-    margin-left: 0.1em;
+    margin-left: 0.8em;
 
 }
 #footer h2{
     color: #fff;
     margin-top: 10.5em;
     font-size: 13px;
+    margin-left: -1em;
 
 }
 #footer h2 img{
@@ -275,6 +276,7 @@ margin-top: -1.5em;
     height: 18px;
     margin-top: -0.3em;
     margin-right: 0.8em;
+    margin-left: 2em;
 }
 
 #menulist{
@@ -290,9 +292,9 @@ margin-top: -1.5em;
 }
 #menulist1{
     list-style: none;
-    margin-top: -8.5em;
+    margin-top: -7em;
     margin-left: 4em;
-width: 80%;
+    width: 80%;
 }
 #menulist1 a{
     text-decoration: none;
